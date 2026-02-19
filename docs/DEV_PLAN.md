@@ -7,6 +7,18 @@
 - Postgres + Prisma
 - Auth
 
+#### Goals: Strong backend fundamentals
+
+- Running NestJS API
+- PostgreSQL connected
+- Prisma configured
+- Register + Login
+- JWT auth guard
+- Multi-tenant foundation
+- Dockerized API
+- Clean structure
+
+
 ## Phase 2
 
 - File upload
