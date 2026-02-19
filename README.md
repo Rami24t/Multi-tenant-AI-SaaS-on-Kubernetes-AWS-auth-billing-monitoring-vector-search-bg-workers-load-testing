@@ -7,13 +7,13 @@
 
 #### Why This Project Is Powerful
 
-It is:
+It is
 
 - B2B realistic
 - High demand in SMEs
 - Perfect architecture showcase
 
-It demonstrates: 
+It demonstrates
 
 - Backend engineering
 - AI integration
