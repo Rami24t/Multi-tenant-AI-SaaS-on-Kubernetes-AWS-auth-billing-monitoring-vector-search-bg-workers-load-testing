@@ -1,6 +1,7 @@
 # AI Knowledge Base for Companies
 
-## Companies upload documents → system builds embeddings → users query via chat (RAG).
+## Description
+Companies upload documents → system builds embeddings → users query via chat (RAG).
 
 ### A Multi-tenant AI SaaS on Kubernetes with auth, billing, monitoring, vector search, background workers, AWS deployment, and load testing
 
@@ -21,3 +22,27 @@ It demonstrates
 - Scalability
 - Multi-tenancy
 - DevOps maturity
+
+## GitHub Repository Structure
+
+ai-saas/
+│
+├── apps/
+│   ├── api/
+│   └── worker/
+│
+├── packages/
+│   ├── shared/
+│   └── config/
+│
+├── infrastructure/
+│   ├── terraform/
+│   └── k8s/
+│
+├── load-tests/
+│
+├── docs/
+│   ├── ARCHITECTURE.md
+│   └── LOAD_TEST_RESULTS.md
+│
+└── README.md
