@@ -26,23 +26,42 @@ It demonstrates
 ## GitHub Repository Structure
 
 ai-saas/
+
 │
+
 ├── apps/
+
 │   ├── api/
+
 │   └── worker/
+
 │
+
 ├── packages/
+
 │   ├── shared/
+
 │   └── config/
+
 │
+
 ├── infrastructure/
+
 │   ├── terraform/
+
 │   └── k8s/
+
 │
+
 ├── load-tests/
+
 │
+
 ├── docs/
+
 │   ├── ARCHITECTURE.md
+
 │   └── LOAD_TEST_RESULTS.md
 │
+
 └── README.md
