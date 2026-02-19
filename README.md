@@ -5,7 +5,7 @@
 ### A Multi-tenant AI SaaS on Kubernetes with auth, billing, monitoring, vector search, background workers, AWS deployment, and load testing
 
 
-🧠 Why This Project Is Powerful
+#### Why This Project Is Powerful
 
 It is:
 
